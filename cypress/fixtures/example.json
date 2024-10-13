@@ -1,0 +1,16 @@
+{
+  "SearchItem1": "iPhone 16",
+  "Brand1" : "iPhone",
+  "SearchItem2": "!@#$%^&*&^%$#@!@#$%^&*+_*&^%$#@$%^&*:L>::?>^&TRFCGVHBJNIUHYGTFYVGHBJNIHTREW$^",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "Email": "testuser@gmail.com",
+  "Pass":"12341234",
+  "amazonfresh" : ["Deals",
+   "Fruits & Vegetables" ,
+    "Rice Atta & Dal" ,
+     "Oil, Masala & Sauces" ,
+      "Snacks & Biscuits ", 
+     "Eggs, Meat & Fish"  ,
+      "Health & Nutrition "]
+
+}
