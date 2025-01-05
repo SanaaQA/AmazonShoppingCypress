@@ -1,4 +1,4 @@
-import AmazonfreshPage from "../PageObjects/AmazonfreshPage";
+  import AmazonfreshPage from "../PageObjects/AmazonfreshPage";
 
 describe('Amazon Fresh test',()=>
     
